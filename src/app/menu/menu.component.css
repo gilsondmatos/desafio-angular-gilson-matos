@@ -1,0 +1,22 @@
+.background__navbar {
+  background-color: black;
+}
+
+.titulo__navbar {
+  font-family: 'Bebas Neue',
+  cursive;
+  font-size: 35px;
+  color: white;
+  background-color: #EC1D24;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.fonte__menu {
+  font-family: 'Roboto Condensed',
+  sans-serif;
+  font-weight: 700;
+  color: white;
+}
